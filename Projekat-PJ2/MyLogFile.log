@@ -1,0 +1,12 @@
+jun 12, 2022 3:49:11 PRIJE PODNE nikola.makric.Simulation initiateSimulation
+SEVERE: null
+nikola.makric.exceptions.InvalidNumberOfPlayersException: Nije navedeno dovoljno imena
+	at nikola.makric.Simulation.initiateSimulation(Simulation.java:397)
+	at nikola.makric.Simulation.main(Simulation.java:69)
+
+jun 12, 2022 9:43:32 PRIJE PODNE nikola.makric.Simulation initiateSimulation
+SEVERE: null
+nikola.makric.exceptions.InvalidNumberOfPlayersException: Nije naveden pravilan broj imena
+	at nikola.makric.Simulation.initiateSimulation(Simulation.java:397)
+	at nikola.makric.Simulation.main(Simulation.java:69)
+

@@ -1,0 +1,28 @@
+Igrac 1 - Nikola
+Nikola-Figura-1(FF,YELLOW) - predjeni put (4-13) - stigla do cilja ne
+
+Nikola-Figura-2(FF,YELLOW) - predjeni put (4-13-22-31) - stigla do cilja ne
+
+Nikola-Figura-3(FF,YELLOW) - predjeni put (4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19) - stigla do cilja ne
+
+Nikola-Figura-4(RF,YELLOW) - predjeni put (4-13-22-31-40-47-54-61) - stigla do cilja ne
+
+Igrac 2 - Milan
+Milan-Figura-1(FF,RED) - predjeni put (4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28-37) - stigla do cilja da
+
+Milan-Figura-2(FF,RED) - predjeni put (4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28-37) - stigla do cilja da
+
+Milan-Figura-3(RF,RED) - predjeni put (4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28-37) - stigla do cilja da
+
+Milan-Figura-4(EFF,RED) - predjeni put (4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28-37) - stigla do cilja da
+
+Igrac 3 - Nemanja
+Nemanja-Figura-1(RF,BLUE) - predjeni put (4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28-37) - stigla do cilja da
+
+Nemanja-Figura-2(RF,BLUE) - predjeni put (4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28-37) - stigla do cilja da
+
+Nemanja-Figura-3(EFF,BLUE) - predjeni put (4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28-37) - stigla do cilja da
+
+Nemanja-Figura-4(FF,BLUE) - predjeni put (4-13-22-31-40-47-54-61-52-43-34-25-18-11-12-21-30-39-46-53-44-35-26-19-20-29-38-45-36-27-28-37) - stigla do cilja da
+
+DUZINA TRAJANJA SIMULACIJE:456

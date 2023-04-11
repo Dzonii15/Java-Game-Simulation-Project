@@ -1,0 +1,37 @@
+Igrac 1 - Mihajlo
+Mihajlo-Figura-1(EFF,RED) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22-23-33-43-51-59-49-39-31-32-42-50-40-41) - stigla do cilja da
+
+Mihajlo-Figura-2(EFF,RED) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22-23-33-43-51-59-49-39-31-32-42-50-40-41) - stigla do cilja da
+
+Mihajlo-Figura-3(EFF,RED) - predjeni put (5-15-25-35-45-53-61-69) - stigla do cilja ne
+
+Mihajlo-Figura-4(RF,RED) - predjeni put (5-15-25-35) - stigla do cilja ne
+
+Igrac 2 - Nikola
+Nikola-Figura-1(EFF,GREEN) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22-23-33-43-51-59-49-39-31-32-42-50-40-41) - stigla do cilja da
+
+Nikola-Figura-2(RF,GREEN) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22-23-33-43-51-59-49-39-31-32-42-50-40-41) - stigla do cilja da
+
+Nikola-Figura-3(FF,GREEN) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22-23-33-43-51-59-49-39-31-32-42-50-40-41) - stigla do cilja da
+
+Nikola-Figura-4(FF,GREEN) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22-23-33-43-51-59-49-39-31-32-42-50-40-41) - stigla do cilja da
+
+Igrac 3 - Nemanja
+Nemanja-Figura-1(EFF,BLUE) - predjeni put (5-15-25-35-45-53-61-69-77-67-57) - stigla do cilja ne
+
+Nemanja-Figura-2(EFF,BLUE) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22-23-33-43-51-59-49-39-31-32-42-50-40-41) - stigla do cilja da
+
+Nemanja-Figura-3(EFF,BLUE) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22-23-33-43-51-59-49-39-31-32-42-50-40-41) - stigla do cilja da
+
+Nemanja-Figura-4(FF,BLUE) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22-23-33-43-51-59-49-39-31-32-42-50-40-41) - stigla do cilja da
+
+Igrac 4 - Milan
+Milan-Figura-1(EFF,YELLOW) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68) - stigla do cilja ne
+
+Milan-Figura-2(RF,YELLOW) - predjeni put (5-15) - stigla do cilja ne
+
+Milan-Figura-3(RF,YELLOW) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47) - stigla do cilja ne
+
+Milan-Figura-4(EFF,YELLOW) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22-23-33-43-51-59-49-39-31-32-42-50-40-41) - stigla do cilja da
+
+DUZINA TRAJANJA SIMULACIJE:764
